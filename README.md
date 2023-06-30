@@ -14,7 +14,7 @@
  1. download taboexe.exe
  2. and make sure to set your current screen resolution or moniter resolution in config.json
  3. after you done that it should stop from getting stuck and it will work!
- 4. and just run ``tabo-exe.exe``
+ 4. and just run ``taboexe.exe``
 
 # for linux, other os who have python installed:
 
