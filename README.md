@@ -3,7 +3,7 @@
 # >>>>>>>>>>>>>>>>	**Tabo!**
 
 ## please note that the windows version takes a few seconds to load the translation and takes a few seconds to stop it so please be patient, if it took longer then expected try to restart your computer!
-### and the download link for the windows verion is https://drive.google.com/file/d/17qKndLZtpGQzc2U5zpJHMTF14Rj3ReJj/view?usp=sharing
+### windows exe has been removed because im to lazy to convert py to exe!
  # Tabo! is a program that allows you to convert
 #  mouse > tablet
 
