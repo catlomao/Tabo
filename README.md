@@ -21,7 +21,7 @@
  1. download tabopy.zip
  2. make sure to set your current screen resolution or moniter resolution in config.json
  3. after you done that it should stop from getting stuck and it will work!
- 4. and just run ``tabo-py.py``
+ 4. and just run ``tabo.py``
 # enjoy :3
 |:3| :3 |
 |--|--|
