@@ -2,9 +2,8 @@
 ![enter image description here](https://raw.githubusercontent.com/catlomao/Tabo/main/tabo.png)
 # >>>>>>>>>>>>>>>>	**Tabo!**
 
-    also the download link of the tabo-exe.zip is this:
-
 ## please note that the windows version takes a few seconds to load the translation and takes a few seconds to stop it so please be patient, if it took longer then expected try to restart your computer!
+### and the download link for the windows verion is https://drive.google.com/file/d/17qKndLZtpGQzc2U5zpJHMTF14Rj3ReJj/view?usp=sharing
  # Tabo! is a program that allows you to convert
 #  mouse > tablet
 
